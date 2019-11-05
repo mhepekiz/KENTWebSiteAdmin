@@ -1,0 +1,15 @@
+/* CSS Document of Administration Area */
+
+/* --- Admin Login --- */
+.loginpage{width:100%; height:100%; background-image:url(../images/admin/login/login_back.jpg); background-position:left; background-repeat:repeat-x; text-align:center; margin:0px; padding:100px 0px 0px 0px}
+
+.logintitle{vertical-align:middle; width: 200px; padding:5px; height:29px; margin:8px; font-family:Tahoma; font-size:12px; color:#444; text-align:right}
+
+.logininput{border:1px solid #999; background-color:#EEE; vertical-align:middle; height:38px; width:200px; padding:5px; font-family:Tahoma; font-size:12px; color:#444}
+
+.loginsecure{border:1px solid #999; background-color:#EEE; vertical-align:middle; line-height:18px; height:38px; width:106px; padding:10px; font-family:Tahoma; font-size:12px; color:#444}
+
+.loginbutton{background-image:url(/admin/_media/login_button.png); color:#FFF; font-family:Tahoma; font-weight:bold; font-size:14px; height:44px; width:105px; border:0px}
+/* --- Skinned SelectBox --- */
+div .cmf-skinned-select{background:url("/images/selectbox/lay-selectMoreButton.gif") no-repeat scroll right top transparent; border:1px solid #DADADA; font-weight:normal; font-family:Tahoma; margin:1px 2px 1px 1px; float:left; display:-moz-inline-stack; display:inline-block; zoom:1; *display:inline; padding:2px 3px 0 0}
+

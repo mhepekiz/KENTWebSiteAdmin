@@ -1,0 +1,33 @@
+a.topMenu
+{
+	color: black;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 9px;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.topMenu:hover
+{
+	color: #0000CC;
+}
+a.subMenu
+{
+	color: black;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 9px;
+	text-decoration: none;
+}
+a.subMenu:hover
+{
+	color: #0000CC;
+}
+a.Mail
+{
+	color: #FF6633;
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 9px;
+}
+a.Mail:hover
+{
+	text-decoration: none;
+}
